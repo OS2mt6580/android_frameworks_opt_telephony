@@ -122,4 +122,7 @@ public interface IccConstants {
 
     //UICC access
     static final String DF_ADF = "7FFF";
+
+    // FAKE ICCID
+    static final String FAKE_ICCID = "00000000000001";
 }
